@@ -31,8 +31,8 @@ Deploy a Windows Server 2022 Domain Controller to provide centralized authentica
 ## Domain Information
 
 - **Domain Name:** lab.local
-- **Forest Functional Level:** Windows Server 2022
-- **Domain Functional Level:** Windows Server 2022
+- **Forest Functional Level:** Windows Server 2016
+- **Domain Functional Level:** Windows Server 2016
 
 ---
 
